@@ -1,0 +1,12 @@
+data
+-   processed
+        -scene name dir
+            -clipped
+            -complete.csv
+            -ag.csv
+            -ml.csv
+        -dir_hash (scene_names)
+            -complete.csv
+            -ag.csv
+            -ml.csv
+        -datasets.csv
